@@ -283,7 +283,7 @@ https://live.obslivestream.com/wtv/index.m3u8
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",X TV Chachapoyas
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 #EXTINF:-1 tvg-id="liga1Maxx.pe" tvg-logo="https://www.telegratishd.com/imge/liga1maxxx.png" group-title="DEPORTE",liga 1 MAX
-https://cdn4.tiogol.com/live/live1/chunklist_w80354706_tkdG9rZW5lbmR0aW1lPTE2OTYzNjY2OTAmdG9rZW5oYXNoPTMzRXBzc3NDUUVkTFhlam1zXzJTSFRiZ3dHNXlIb3EyR3pvRGwyWkZYbzg9JnRva2Vuc3RhcnR0aW1lPTE2OTYzNTQ2OTA=.m3u8?clientIP=181.66.176.51
+https://cdn1.tiogol.com/live/live1/chunklist_w533676633_tkdG9rZW5lbmR0aW1lPTE2OTYzNzU5ODYmdG9rZW5oYXNoPWVINmZ2d3JXbGszWjAyWjV3ZXVVWG5scXZLQ2lRSndQcnd2akhRQkQtcTg9JnRva2Vuc3RhcnR0aW1lPTE2OTYzNjM5ODY=.m3u8?clientIP=181.66.176.51
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="DEPORTES", LIGA1 MAX (opc2)
 https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
 #EXTINF:-1 tvg-id="americatv.pe" tvg-logo="http://pluspng.com/img-png/logo-america-tv-png-file-america-television-logo-2016-png-1261.png" group-title="",AMERICA TELEVISION
