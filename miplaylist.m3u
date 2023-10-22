@@ -285,7 +285,7 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 #EXTINF:-1 tvg-id="liga1Maxx.pe" tvg-logo="https://www.telegratishd.com/imge/liga1maxxx.png" group-title="DEPORTE",liga 1 MAX
 http://159.69.59.117/live1/index.m3u8
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="DEPORTES", LIGA1 MAX (opc2)
-https://channels123.futbolenvivo.xyz/streams4/master.m3u8?id=liga1max
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298922
 #EXTINF:-1 tvg-id="americatv.pe" tvg-logo="http://pluspng.com/img-png/logo-america-tv-png-file-america-television-logo-2016-png-1261.png" group-title="",AMERICA TELEVISION
 http://192.168.1.6/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="golperu.pe" tvg-logo="https://www.tvplusgratis.com/imge/golperu.png",GOL PERU HD
