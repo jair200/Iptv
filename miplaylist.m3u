@@ -289,4 +289,4 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 #EXTINF:-1 tvg-id="americatv.pe" tvg-logo="http://pluspng.com/img-png/logo-america-tv-png-file-america-television-logo-2016-png-1261.png" group-title="",AMERICA TELEVISION
 http://192.168.1.6/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="golperu.pe" tvg-logo="https://www.tvplusgratis.com/imge/golperu.png",GOL PERU HD
-https://live.telelatinohd.com:8080/MTgxLjY2LjE1MS4yMTE=/6_.m3u8?token=uaYrPi7j8dgCbl5-2kRiZQ&expires=1695258090
+http://159.69.59.117/live3/index.m3u8
