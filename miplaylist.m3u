@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="liga1Maxx.pe" tvg-logo="https://www.telegratishd.com/imge/liga1maxxx.png" group-title="DEPORTE",liga 1 MAX
-http://159.69.59.117/live1/index.m3u8
+https://shepix.com/liga1.php
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="DEPORTES", LIGA1 MAX (opc2)
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298922
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", BHTV|SD|
