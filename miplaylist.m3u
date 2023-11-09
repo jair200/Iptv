@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="liga1Maxx.pe" tvg-logo="https://www.telegratishd.com/imge/liga1maxxx.png" group-title="DEPORTE",liga 1 MAX
-https://live-ak.vimeocdn.com/exp=1699500255~acl=%2Fd3621024-cc3b-4efa-9ded-ef680e99466e%2F%2A~hmac=e543dd8f65216d9bac41a8d07b054402e5509b46439269e461747ab6254d3f8b/d3621024-cc3b-4efa-9ded-ef680e99466e/hls.m3u8?min_seconds=30
+https://tiofutbol.com:442/live/index.m3u8?token=7411d449d5b5e8190e845fa6a38ab9f6f092e980-273da3a7ebc270f650d25ff4d0b567e3-1699510782-1699499982&remote=190.237.142.161
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-logo="https://i.ibb.co/sjPzXcg/Liga1.png" tvg-group="DEPORTES", LIGA1 MAX (opc2)
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298922
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", BHTV|SD|
