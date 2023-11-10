@@ -290,4 +290,5 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 http://192.168.1.6/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="golperu.pe" tvg-logo="https://www.tvplusgratis.com/imge/golperu.png",GOL PERU HD
 http://sdmx.vip:8080/Viky25/ZqGZuEKzN4/10921
-
+#EXTINF:-1 tvg-id="" tvg-name="PER: DIRECTV SPORTS (PERU) ᴸᴵᴳᴬ ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="PERU: LIGA 1 ⚽",PER: DIRECTV SPORTS (PERU) ᴸᴵᴳᴬ ¹
+http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/151931
