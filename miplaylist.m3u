@@ -115,6 +115,8 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="",La Riberena
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV SD 2" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="⭐PERU⭐",AMERICA TV SD 2
+http://starfamily.vip:8080/10prue231/w2A2pTvaeMTk/400697
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-id="LimaLive.pe" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="",LimaLive
